@@ -42,7 +42,9 @@
       referrerpolicy="no-referrer"
     ></script>
     <script>
-      const socket = io("http://localhost:3000")
+      const socket = io(
+        "https://react-socket-server01-fcd1d9cb98c1.herokuapp.com/"
+      )
       // dom elements
       const myForm = document.querySelector("#my-form")
       const myInput = document.querySelector("#text-message")
