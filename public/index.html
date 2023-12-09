@@ -59,6 +59,10 @@
         })
       })
 
+      socket.on("connect", () => {
+        console.log("Connected to server")
+      })
+
       // socket listeners
       socket.on("message-from-server", (data) => {
         messages.innerHTML += `<li>${data.message}</li>`
