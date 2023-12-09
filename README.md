@@ -37,6 +37,8 @@ Start the server
 1. Run `npm run dev` to start the application.
 2. Open your browser and navigate to `http://localhost:3000`.
 
+```
+
 🌟 Features
 
 - Feature 1: Basic real time chat app
@@ -45,12 +47,11 @@ Start the server
 ## Tech Stack
 
 **Client:**
-* HTML/Javascript
-* Socket.io / Express / Cors
 
+- HTML/Javascript
+- Socket.io / Express / Cors
 
 🌐 Links
 
 - [GitHub Repository](https://github.com/nelson2411/socket_server_01.git)
 - [Live Demo](https://react-socket-server01-fcd1d9cb98c1.herokuapp.com/) // momentarily disabled
-```
