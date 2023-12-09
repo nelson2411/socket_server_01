@@ -1,4 +1,4 @@
-# Project Name
+## Socket server mini-chatApp
 
 🚀 Description
 
@@ -7,7 +7,7 @@ The project is a mini chat application.
 
 🔧 Installation
 
-## Run Locally
+### Run Locally
 
 Clone the project
 
@@ -44,7 +44,7 @@ Start the server
 - Feature 1: Basic real time chat app
 - Feature 2: It can be deploy locally and use.
 
-## Tech Stack
+### Tech Stack
 
 **Client:**
 
